@@ -1,2 +1,2 @@
 # MediumArticles
-This repository would include code developed during studies for writting medium articles
+This repository would include code developed during studies when writting medium articles
