@@ -1,11 +1,11 @@
 # MediumArticles
-This repository include code developed during tasks that include studies/experiments/data analysis/data science tasks made while writting medium articles.
+This repository include code developed for multiple Medium articles. Main tasks when writing a Medium article include experiments, data analysis, data science, etc.
 
-## GitHub Repositories and their Medium Articles URL:
+## Below is the list of the GitHub Repositories and their Medium Articles URL:
 - Plotly article. Its Medium article link: 
 
   https://medium.com/p/7fae7d45fb92
-- Create your Dashboard for data visualization and analysis Article. Its Medium article link:
+- Create your Dashboard for data visualization and analysis. Its Medium article link:
 
   https://medium.com/@bjwiem/create-your-dashboard-for-data-visualization-and-analysis-2f2237fe0e5f
 - Complete guide on stationarity in time series. Its Medium article link:
