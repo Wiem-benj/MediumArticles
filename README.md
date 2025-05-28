@@ -11,3 +11,6 @@ This repository include code developed for multiple Medium articles. Main tasks 
 - Complete guide on stationarity in time series. Its Medium article link:
 
   https://medium.com/p/9681cba0166f
+- Understand Logistic Regression with its finer details. Its Medium article link:
+
+  https://medium.com/p/5848da34db68
